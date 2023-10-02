@@ -89,3 +89,24 @@ Any jobs of deptno 10 those that are not found in deptno 20.
 78)Display the Grade, Number of emps, and max sal of each grade.
 79)Display dname, grade, No. of emps where at least two emps are clerks.
 80)List the details of the department where ma
+81)Display the emps whose manager name is jones.
+82)List the employees whose salary is more than 3000 after giving 20% increment.
+83)List the emps with dept names.
+84)List the emps who are not working in sales dept.
+85)List the emps name ,dept, sal and comm. For those whose salary is between 2000 and 5000 while loc is Chicago.
+86)List the emps whose sal is greater than his managers salary
+87)List the grade, EMP name for the deptno 10 or deptno 30 but sal grade is not 4 while they joined the company before ’31-dec-82’.
+88)List the name ,job, dname, location for those who are working as MGRS.
+89)List the emps whose mgr name is jones and also list their manager name.
+90)List the name and salary of ford if his salary is equal to hisal of his grade.
+91)Lit the name, job, dname ,sal, grade dept wise
+92)List the emp name, job, sal, grade and dname except clerks and sort on the basis of highest sal.
+93)List the emps name, job who are with out manager.
+94)List the names of the emps who are getting the highest sal dept wise.
+95)List the emps whose sal is equal to the average of max and minimum
+96)List the no. of emps in each department where the no. is more than 3.
+97)List the names of depts. Where atleast 3 are working in that department.
+98)List the managers whose sal is more than his employess avg salary.
+99)List the name,salary,comm. For those employees whose net pay is greater than
+or equal to any other employee salary of the company.
+100)List the emp whose sal<his manager but more than any other manager.
