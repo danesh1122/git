@@ -110,3 +110,8 @@ Any jobs of deptno 10 those that are not found in deptno 20.
 99)List the name,salary,comm. For those employees whose net pay is greater than
 or equal to any other employee salary of the company.
 100)List the emp whose sal<his manager but more than any other manager.
+101)List the employee names and his average salary department wise.
+
+
+
+102)Find out least 5 earners of the company
